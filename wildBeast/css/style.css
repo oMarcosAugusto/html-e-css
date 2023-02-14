@@ -1,0 +1,28 @@
+/* GLOBAL */
+@import "./global/body.css";
+@import "./global/footer.css";
+
+/* GRID GERAL */
+@import "./gridGeral/gridGeral.css";
+
+/* MENU */
+@import "./menu/header.css";
+
+/* SEIDENAV */
+@import "./sidenav/sidenav.css";
+
+/* ANUNCIOS */
+@import "./anuncios/anuncios.css";
+
+/* CONTENT */
+@import "./content/content.css";
+@import "./content/estilos.css";
+@import "./content/informacoes.css";
+@import "./content/titulo.css";
+@import "./content/caracteristicas.css";
+@import "./content/destaque.css";
+@import "./content/citacao&atributos.css";
+
+
+/* UTILITARIOS */
+@import "./utilitarios/utilitarios.css";

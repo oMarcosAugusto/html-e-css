@@ -1,0 +1,14 @@
+.titulo{
+  color: #B07DFB;
+}
+
+.titulo h1{
+  font-size: 3.75rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.titulo span{
+  font-size: 0.875rem;
+  font-style: italic;
+}
