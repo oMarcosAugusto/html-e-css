@@ -1,0 +1,22 @@
+.banner .banner-content button {
+  color: #31a8dd;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 16px 32px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  background-color: transparent;
+  border-image: linear-gradient(#3ba1cd, #1572b7);
+  border-image-slice: 10;
+  border-radius: 30px;
+}
+
+button {
+  text-align: center;
+  align-items: flex-start;
+  cursor: default;
+  padding-block: 1px;
+  padding-inline: 6px;
+  border-width: 2px;
+  border-style: outset;
+}

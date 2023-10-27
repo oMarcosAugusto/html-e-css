@@ -1,0 +1,12 @@
+section {
+  margin: 100px auto;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #33a8db;
+  font-weight: bold;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}

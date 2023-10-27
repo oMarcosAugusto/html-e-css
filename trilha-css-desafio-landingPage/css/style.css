@@ -1,0 +1,9 @@
+@import url(./cssReset/reset&geral.css);
+@import url(../css/banner/banner.css);
+@import url(../css/banner/logo.css);
+@import url(../css/banner/button/button.css);
+@import url(../css/main/main.css);
+@import url(../css/main/modulesList/modulesList.css);
+@import url(../css/main/transformWorld/tranformWorld.css);
+@import url(../css/main/professionalChallenges/professionalChallenges.css);
+@import url(../css/footer/footer.css);

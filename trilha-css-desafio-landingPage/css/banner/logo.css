@@ -1,0 +1,15 @@
+.banner .logo img {
+  margin: auto;
+  max-width: 100%;
+  min-height: 100%;
+}
+
+.banner .logo {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  height: 260px;
+  width: 260px;
+  margin: auto;
+  padding: 16px;
+  margin-bottom: 16px;
+}
